@@ -1,0 +1,17 @@
+
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+detections.csv
+report_status.csv
+gps_location.json
+*.log
+.env
+.env.*
+!.env.example
+best.onnx
+*.py.py
+live_detect_old.py
