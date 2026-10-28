@@ -4,3 +4,4 @@ numpy
 onnxruntime
 pandas
 pyserial
+supabase
